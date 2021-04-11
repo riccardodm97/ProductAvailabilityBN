@@ -4,7 +4,7 @@ When a new product is about to be introduced to the market, is often convenient 
 
 With this project I tried to model with a Bayesian Network the behavior of the market with respect to the launch of a new product and in particular to predict its availability at the stores after its release. Bayesian Network allowed me to deal with uncertainty and partial information, and to make probabilistic predictions by defining probabilities of different causes that could affect my target in a very simplified model of my domain of interest.
 
-For a more in depth QUALCOSA on this project read the [report](report.pdf)
+For a more detailed discussion about this project read the [report](report.pdf)
 
 ![Alt text](img/Network.png?raw=true "Network Topology")
 
